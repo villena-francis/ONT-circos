@@ -1,7 +1,7 @@
 # Visualizing nanopore sequencing data using circos plots
 
 A Jupyter notebook to convert methylation data and SNPs obtained with ONT into 
-circos plots using pyCircos [pyCircos](https://github.com/ponnhide/pyCircos) 
+circos plots using [pyCircos](https://github.com/ponnhide/pyCircos) 
 library.
 
 ## Installation
