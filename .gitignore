@@ -1,0 +1,7 @@
+data/*
+!data/
+!data/hg38_chromosome_cytoband.csv
+!data/hg38_chromosome_general.csv
+
+results/*
+!results/.gitkeep
